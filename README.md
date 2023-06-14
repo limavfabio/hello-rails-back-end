@@ -32,7 +32,8 @@
 
 # 📖 About <a name="about"></a>
 
-**Hello Rails Back End** is a demo Rails 7 app with React using webpack through jsbundling
+**Hello Rails Back End** is a demo Rails 7 api only application. You can find a front end demo in React here:
+https://github.com/limavfabio/hello-react-front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
